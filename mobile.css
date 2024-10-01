@@ -107,3 +107,18 @@ section#sec2  .grid-container {
 .footer-section {
     margin-bottom: 20px;
 }
+
+@media (max-width: 400px){
+    div.body{
+        background-color: rgba(0, 0, 0, 0.801); 
+        background-image: url(img/background.png);
+        margin-left: 0;
+        height: 280.5vh;
+        position: sticky;
+    }
+
+    div.body2{
+        background-image: linear-gradient(to right, rgba(43, 40, 40, 0.726), rgba(0, 0, 0, 0.808));
+        height: 280.5vh;
+    }
+}
