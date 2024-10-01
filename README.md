@@ -10,5 +10,4 @@ This project is a frontend implementation of a streaming website UI/UX design. I
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 - Font Awesome (for icons)
